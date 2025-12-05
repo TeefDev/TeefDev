@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Taif 👋
 
-<!--
-**TeefMohameed/TeefMohameed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 A passionate Software Developer focused on building clean, efficient, and scalable solutions.  
+💼 Experienced in C#, ASP.NET, SQL Server, and Oracle APEX.  
+📊 Skilled in designing databases and developing full-stack web applications.  
+🚀 Always exploring new technologies and improving my craft.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Languages & Tools
+C# · ASP.NET · SQL Server · Oracle APEX ·  
+HTML · CSS · JavaScript ·  
+GitHub · Visual Studio · VS Code
+
+---
+
+### 🧠 What I Do
+- Build interactive and user-friendly web interfaces  
+- Develop full-stack systems using C# and ASP.NET  
+- Design and optimize professional database structures  
+- Translate requirements into real, impactful software solutions  
+- Create high-quality projects with clean architecture and strong performance  
+
+---
+
+✨ *Thanks for visiting my profile!*
