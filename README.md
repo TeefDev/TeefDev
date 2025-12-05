@@ -7,7 +7,7 @@
 
 ---
 
-🎓 Education  
+### 🎓 Education  
 Diploma in Programming Technology — Imam Mohammad Ibn Saud University
 
 ---
